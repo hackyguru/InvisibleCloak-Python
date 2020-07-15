@@ -11,9 +11,9 @@ Python script for an invisible cloak.
 - numpy
 
 ## How to start
-'''
+``` 
 python3 invisible_cloak.py
-'''
+```
 
 ## Developer credits
 This script was developed by Kumaraguru (@hackyguru) on a booring morning :D
